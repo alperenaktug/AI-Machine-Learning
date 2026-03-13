@@ -1,0 +1,2 @@
+
+import sözlük_dizeler
