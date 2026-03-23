@@ -1,0 +1,1 @@
+Kategori bazında ürünlerin satış toplamını veriyor.
