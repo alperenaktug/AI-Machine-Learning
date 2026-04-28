@@ -29,3 +29,6 @@ df = pd.read_excel('teknolojik_urunler.xlsx')
 # print(df_kategoriler)
 # Dataframe de isin() fonksiyonu ile Kategoriler kısmında televizyon ve mobil cihaz verileri var
 # mı bu verileri getiriyoruz string değerler üzerinde kullanılır.
+
+
+

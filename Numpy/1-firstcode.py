@@ -22,3 +22,4 @@ data_type = dizi1.dtype
 print("Dizinin boyutu:", boyut)
 print("Dizinin veri tipi:", data_type)
 # dizi1'in boyutunu ve veri tipini öğrenmek için ndim ve dtype özelliklerini kullandık ve sonuçları ekrana yazdırdık.
+
